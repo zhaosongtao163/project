@@ -15,6 +15,7 @@ public class Main {
 		list.add("aaa");
 		list.add("aaa");
 		list.add("aaa");
+		list.add("bbbb");
 		System.out.println(list);
 	}
 
